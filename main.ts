@@ -17,6 +17,15 @@
 // program must fail loudly here instead of shipping a half-joke.
 import { mkdirSync, writeFileSync } from "node:fs";
 
+// The lock is the joke's engine, not its setup: a fridge that merely
+// refused to open would be a broken appliance, but a fridge that locks
+// itself has decided it knows better than its owner — the mechanism is
+// the moral judgment. "Flashes" is the right verb because a flash is
+// a performance, not a message: the fridge does not quietly say no, it
+// puts on a light show so the whole dark kitchen can see you being
+// disciplined. And the lecture inverts the relationship — the appliance
+// exists to serve the human, yet here it grades the human, and the
+// grade comes from a box that has never once resisted a slice itself.
 const ENTRY =
   "At midnight my smart fridge locks itself and flashes WELLNESS MODE - as if a box full of leftover pizza gets to lecture me about discipline.";
 

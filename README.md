@@ -20,6 +20,10 @@ The judge brief rewards a roast that makes the midnight refusal itself the targe
 
 The fridge in this line does not speak like an appliance; it speaks like a smug flatmate who read one fitness blog and now runs the house. That is the whole trick — a locked door is boring, but a locked door with an opinion is a character. WELLNESS MODE is not a setting, it is a personality the fridge adopted at midnight, and the moment it flashes, the owner is no longer fighting a machine, he is arguing with a box of cold pizza that thinks it is a life coach. Midnight matters because the craving is honest then: nobody sneaks to the fridge at noon, and the fridge knows its power peaks exactly when willpower is at its lowest.
 
+## How the line sounds
+
+Read out loud, the line runs like a complaint you actually make while standing in a dark kitchen in socks: it starts flat and factual — midnight, a locked door — and then it snaps into the insult, "as if a box full of leftover pizza gets to lecture me about discipline." The dash is the hinge: everything before it is what happened, everything after it is what you thought about it. The long "leftover pizza" stretch slows the sentence down just enough that "discipline" lands as the final word, which is the joke's real target — not the fridge, not the lock, but the idea that a cold box of last night's dinner has earned the right to that word at all.
+
 ## How it works
 
 ```sh
