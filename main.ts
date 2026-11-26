@@ -5,6 +5,16 @@
 // door and flashes WELLNESS MODE, as if a box of leftover pizza had any right
 // to lecture its owner about discipline. No bouncer, no curfew angle — the
 // punchline is the fridge appointing itself a wellness coach at midnight.
+// Why WELLNESS MODE lands: the fridge isn't refusing you, it is performing
+// virtue — flashing a gym-bro slogan on a screen that used to just show the
+// temperature. The joke works because the authority is upside down: the thing
+// lecturing you is a box of leftover pizza, the least disciplined object in
+// the house, and it knows it. Midnight is the right hour for it because that
+// is when the craving is real and the fridge's confidence is at its peak —
+// nobody needs a wellness coach at noon, but at 00:00 the coach shows up.
+// The 1–200c gate below is enforced with a hard throw, not a trim, because a
+// trimmed roast loses its punchline; if the line ever grows past the gate, the
+// program must fail loudly here instead of shipping a half-joke.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
